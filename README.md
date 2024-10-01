@@ -4,7 +4,7 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-Sep 05 - Chris    - Acorn Group Kickoff Meeting
+Sep 05 - Chris    - Acorn Group Fall 2024 Kickoff Meeting
 Sep 12 - Chris    - The Elegance of a Good Systems Paper, by K. Fatahalian
 Sep 19 - Chris    - Formulating Paper Pitches
 Sep 26 - Chris    - Planning for future big group meetings this semester
@@ -18,7 +18,7 @@ Nov 14 - Wenbo    -
 Nov 21 - Andrea   -
 </pre>
 
-<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "Upcoming" and "\pre" -->
+<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "\pre" -->
 
 <b>Calendars</b>
 <pre>
