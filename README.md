@@ -4,18 +4,18 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-Sep 05 - (Chris) Acorn Group Kickoff Meeting
-Sep 12 - (Chris) The Elegance of a Good Systems Paper, by Kayvon Fatahalian
-Sep 19 - (Chris) Formulating Paper Pitches
-Sep 26 - (Chris) Planning for future big group meetings this semester
-Oct  3 - (Paul)
-Oct 10 - (Vikas)
-Oct 17 - (Sabrina)
-Oct 24 - (Leo)
-Oct 31 - (Yuanhan)
-Nov  7 - (Kyna)
-Nov 14 - (Wenbo)
-Nov 21 - (Andrea)
+Sep 05 - Chris    - Acorn Group Kickoff Meeting
+Sep 12 - Chris    - The Elegance of a Good Systems Paper, by K. Fatahalian
+Sep 19 - Chris    - Formulating Paper Pitches
+Sep 26 - Chris    - Planning for future big group meetings this semester
+Oct  3 - Paul     -
+Oct 10 - Vikas    -
+Oct 17 - Sabrina  -
+Oct 24 - Leonardo -
+Oct 31 - Yuanhan  -
+Nov  7 - Kyna     -
+Nov 14 - Wenbo    -
+Nov 21 - Andrea   -
 </pre>
 
 <!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "Upcoming" and "\pre" -->
@@ -40,9 +40,5 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 #### Past Events - 2024
 
 ```
-Sep 05 - (Chris) Acorn Group Kickoff Meeting
-Sep 12 - (Chris) The Elegance of a Good Systems Paper, by Kayvon Fatahalian
-Sep 19 - (Chris) Formulating Paper Pitches
-Sep 26 - (Chris) Planning for future big group meetings this semester
 ```
 
