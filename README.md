@@ -5,7 +5,7 @@ Here is our group meeting schedule:
 <b>Upcoming</b>
 <pre>
 Sep 05 - Chris    - Acorn Group Fall 2024 Kickoff Meeting
-Sep 12 - Chris    - The Elegance of a Good Systems Paper, by K. Fatahalian
+Sep 12 - Chris    - The Elegance of a Good Systems Paper, by Kayvon
 Sep 19 - Chris    - Formulating Paper Pitches
 Sep 26 - Chris    - Planning for future big group meetings this semester
 Oct  3 - Paul     -
