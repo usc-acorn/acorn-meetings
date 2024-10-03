@@ -4,19 +4,24 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-Sep 05 - Chris    - Acorn Group Fall 2024 Kickoff Meeting
-Sep 12 - Chris    - The Elegance of a Good Systems Paper, by Kayvon
-Sep 19 - Chris    - Formulating Paper Pitches
-Sep 26 - Chris    - Planning for future big group meetings this semester
-Oct  3 - Paul     -
-Oct 10 - Vikas    -
-Oct 17 - Sabrina  -
-Oct 24 - Leonardo -
-Oct 31 - Yuanhan  -
-Nov  7 - Kyna     -
-Nov 14 - Wenbo    -
-Nov 21 - Andrea   -
+         Skills     Talk Session
+---------------------------------------------------------------------------
+Sep 05 -          - Chris    - Acorn Group Fall 2024 Kickoff Meeting
+Sep 12 -          - Chris    - The Elegance of a Good Systems Paper, by Kayvon
+Sep 19 -          - Chris    - Formulating Paper Pitches
+Sep 26 -          - Chris    - Planning for future big group meetings this semester
+Oct  3 -          - Paul     -
+Oct 10 - Sabrina  - Vikas    -
+Oct 17 - Leonardo - Sabrina  -
+Oct 24 - Yuanhan  - Leonardo -
+Oct 31 - Kyna     - Yuanhan  -
+Nov  7 - Wenbo    - Kyna     -
+Nov 14 - Andrea   - Wenbo    -
+Nov 21 - Claire   - Andrea   -
+Nov 28 -          -          - Holiday Break!
+Dec  5 -          - Claire   -
 </pre>
+
 
 <!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "\pre" -->
 
