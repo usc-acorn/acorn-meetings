@@ -4,7 +4,7 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-         Skills     Talk Session
+         Skills     Talk       Title
 ---------------------------------------------------------------------------
 Sep 05 -          - Chris    - Acorn Group Fall 2024 Kickoff Meeting
 Sep 12 -          - Chris    - The Elegance of a Good Systems Paper, by Kayvon
