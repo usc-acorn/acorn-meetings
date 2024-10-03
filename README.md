@@ -11,15 +11,15 @@ Sep 12 -          - Chris    - The Elegance of a Good Systems Paper, by Kayvon
 Sep 19 -          - Chris    - Formulating Paper Pitches
 Sep 26 -          - Chris    - Planning for future big group meetings this semester
 Oct  3 -          - Paul     -
-Oct 10 - Sabrina  - Vikas    -
-Oct 17 - Leonardo - Sabrina  -
-Oct 24 - Yuanhan  - Leonardo -
-Oct 31 - Kyna     - Yuanhan  -
-Nov  7 - Wenbo    - Kyna     -
-Nov 14 - Andrea   - Wenbo    -
-Nov 21 - Claire   - Andrea   -
+Oct 10 -          -          - Fall Break!
+Oct 17 - Sabrina  - Vikas    -
+Oct 24 - Leonardo - Sabrina  -
+Oct 31 - Yuanhan  - Leonardo -
+Nov  7 - Kyna     - Yuanhan  -
+Nov 14 - Wenbo    - Kyna     -
+Nov 21 - Andrea   - Wenbo    -
 Nov 28 -          -          - Holiday Break!
-Dec  5 -          - Claire   -
+Dec  5 - Claire   - Andrea   -
 </pre>
 
 
