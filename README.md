@@ -4,22 +4,22 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-         Skills     Talk       Title
+         Skills/Talk       Title
 ---------------------------------------------------------------------------
-Sep 05 -          - Chris    - Acorn Group Fall 2024 Kickoff Meeting
-Sep 12 -          - Chris    - The Elegance of a Good Systems Paper, by Kayvon
-Sep 19 -          - Chris    - Formulating Paper Pitches
-Sep 26 -          - Chris    - Planning for future big group meetings this semester
-Oct 03 -          - Paul     -
-Oct 10 -          -          - Fall Break!
-Oct 17 - Sabrina  - Vikas    -
-Oct 24 - Leonardo - Sabrina  -
-Oct 31 - Yuanhan  - Leonardo -
-Nov 07 - Kyna     - Yuanhan  -
-Nov 14 - Wenbo    - Kyna     -
-Nov 21 - Andrea   - Wenbo    -
-Nov 28 -          -          - Holiday Break!
-Dec 05 - Claire   - Andrea   -
+Sep 05 - Chris               - Acorn Group Fall 2024 Kickoff Meeting
+Sep 12 - Chris               - The Elegance of a Good Systems Paper, by Kayvon
+Sep 19 - Chris               - Formulating Paper Pitches
+Sep 26 - Chris               - Planning for future big group meetings this semester
+Oct 03 - Paul                -
+Oct 10 - Fall Break          - No meetings
+Oct 17 - Sabrina / Vikas     -
+Oct 24 - Leonardo / Sabrina  -
+Oct 31 - Yuanhan / Leonardo  -
+Nov 07 - Kyna / Yuanhan      -
+Nov 14 - Wenbo / Kyna        -
+Nov 21 - Andrea / Wenbo      -
+Nov 28 - Holiday Break       - No meetings
+Dec 05 - Claire / Andrea     -
 </pre>
 
 
