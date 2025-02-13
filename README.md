@@ -12,8 +12,8 @@ Mar  6 Th - Paul
 Mar 13 Th - Alena
 Mar 20 Th - Spring Break
 Mar 28 Fr - Yuanhan
-Apr  3 Th - Wenbo
-Apr 10 Th - Leo
+Apr  3 Th - Leo
+Apr 10 Th - Wenbo
 Apr 17 Th - Aidan
 Apr 25 Fr
 May  1 Th
