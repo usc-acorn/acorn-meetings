@@ -1,3 +1,27 @@
+### Spring 2025
+
+Here is our group meeting schedule:
+
+<b>Upcoming</b>
+<pre>
+         Skills/Talk       Title
+---------------------------------------------------------------------------
+Feb 20 Th - Sabrina
+Feb 28 Fr - Claire
+Mar  6 Th - Paul
+Mar 13 Th - Alena
+Mar 20 Th - Spring Break
+Mar 28 Fr - Yuanhan
+Apr  3 Th - Wenbo
+Apr 10 Th - Leo
+Apr 17 Th - Aidan
+Apr 25 Fr
+May  1 Th
+May  8 Th
+</pre>
+
+Missing: Vikas, Kyna, Andrea
+
 ### Fall 2024
 
 Here is our group meeting schedule:
