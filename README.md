@@ -22,11 +22,26 @@ May  8 Th
 
 Missing: Vikas, Kyna, Andrea
 
-### Fall 2024
+<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "\pre" -->
 
-Here is our group meeting schedule:
+<b>Calendars</b>
+<pre>
+% cal -A2 2 2025
 
-<b>Upcoming</b>
+   February 2025           March 2025            April 2025
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
+                   1                     1         1  2  3  4  5
+ 2  3  4  5  6  7  8   2  3  4  5  6  7  8   6  7  8  9 10 11 12
+ 9 10 11 12 13 14 15   9 10 11 12 13 14 15  13 14 15 16 17 18 19
+16 17 18 19 20 21 22  16 17 18 19 20 21 22  20 21 22 23 24 25 26
+23 24 25 26 27 28     23 24 25 26 27 28 29  27 28 29 30
+                      30 31
+</pre>
+
+### Past Events
+
+Fall 2024
+
 <pre>
          Skills/Talk       Title
 ---------------------------------------------------------------------------
@@ -46,28 +61,4 @@ Nov 28 - Holiday Break       - No meetings
 Dec 05 - Claire / Andrea     -
 </pre>
 
-
-<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "\pre" -->
-
-<b>Calendars</b>
-<pre>
-% cal -A2 10 2024
-
-                            2024
-      October               November              December
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-       1  2  3  4  5                  1  2   1  2  3  4  5  6  7
- 6  7  8  9 10 11 12   3  4  5  6  7  8  9   8  9 10 11 12 13 14
-13 14 15 16 17 18 19  10 11 12 13 14 15 16  15 16 17 18 19 20 21
-20 21 22 23 24 25 26  17 18 19 20 21 22 23  22 23 24 25 26 27 28
-27 28 29 30 31        24 25 26 27 28 29 30  29 30 31
-
-</pre>
-
-### Past Events
-
-#### Past Events - 2024
-
-```
-```
 
