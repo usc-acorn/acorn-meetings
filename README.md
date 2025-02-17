@@ -4,13 +4,13 @@ Here is our group meeting schedule:
 
 <b>Upcoming</b>
 <pre>
-         Skills/Talk       Title
+            Talk
 ---------------------------------------------------------------------------
 Feb 20 Th - Sabrina
 Feb 28 Fr - Claire
 Mar  6 Th - Paul
 Mar 13 Th - Alena
-Mar 20 Th - Spring Break
+Mar 20 Th - Spring Break !!
 Mar 28 Fr - Yuanhan
 Apr  3 Th - Leo
 Apr 10 Th - Wenbo
@@ -22,7 +22,7 @@ May  8 Th
 
 Missing: Vikas, Kyna, Andrea
 
-<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "\pre" -->
+<!-- Note: to work correctly, the reminder robot needs the above schedule to be delimited by "<b>Upcoming</b>" and "/pre" -->
 
 <b>Calendars</b>
 <pre>
