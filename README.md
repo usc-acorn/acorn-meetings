@@ -13,11 +13,11 @@ Mar 13 Th - Alena
 Mar 20 Th - Spring Break !!
 Mar 28 Fr - Yuanhan
 Apr  3 Th - Leo
-Apr 10 Th - Wenbo
-Apr 17 Th - Aidan
-Apr 25 Fr
-May  1 Th
-May  8 Th
+Apr 10 Th - 
+Apr 17 Th - Wenbo
+Apr 25 Fr - Aidan
+May  1 Th - Vikas
+May  8 Th - Kyna / Andrea (?)
 </pre>
 
 Missing: Vikas, Kyna, Andrea
